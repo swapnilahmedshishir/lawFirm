@@ -1,0 +1,42 @@
+.membarData_div{
+    margin: 100px 0px;
+}
+.member_row{
+    margin: 0 auto;
+    width: 100%;
+    padding: 30px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 13px;
+    background: #FAFAFA;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.15);
+}
+.member_img_col{
+    /* width: 100%;    */
+    text-align: center;
+}
+.member_img_col img {
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.member_text_col h1{
+    font-size: 25px;
+    font-family: inherit;
+    text-transform: uppercase;
+    font-weight: 400;
+    margin: 0;
+    margin-bottom: 10px;
+    line-height: 1;
+}
+.position{
+    color: #888;
+}
+.position span{
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.member_text_col p{
+    font-size: 16px;
+    font-family: sans-serif;    
+    font-weight: 500;
+}

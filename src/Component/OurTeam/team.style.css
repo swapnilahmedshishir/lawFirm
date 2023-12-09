@@ -1,0 +1,34 @@
+/* Gallery Hero */
+.team_hero{
+    background-image: url("/src/ALLImage/pexels-fauxels-3184393.jpg"); /* The image used */
+    background-color: #4B1515; /* Used if the image is unavailable */
+    height: 300px;
+    background-position: top; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    color: #fff;
+    /* filter: sepia(10%) hue-rotate(190deg) saturate(50%);; */
+  
+  }
+  .team_text{
+     margin: 30px 0px;
+    text-align: center;
+  }
+  .team_text h3{
+    color: #000000;
+    font-family: "Lato", Sans-serif;
+    font-size: 50px;
+    font-weight: 600;
+    /* line-height: 60px; */
+  }
+  .divider{
+     display: flex;
+   margin: 0 auto;
+      width: 90px;
+      background-color: #E16565;
+      height: 2px;
+  }  
+/* Team  */
+.team_meet{
+    margin: 90px 0px;
+}

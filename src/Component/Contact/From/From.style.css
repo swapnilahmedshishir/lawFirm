@@ -1,0 +1,53 @@
+.from_Style{
+    /* padding: 40px 40px; */
+    padding-left: 10px;
+    padding-top: 20px;
+}
+.from_text{
+    margin-bottom: 20px;
+}
+/* 
+.from_text input[type="text" ]::placeholder {
+    color: #e20c0c;
+    font-size: 16px;
+    font-style: italic;
+} */
+
+.from_text label {
+    color: #090909;
+    margin-bottom: 5px;
+    font-weight: 600;
+    text-transform: uppercase;
+    /* display: block;       */
+  
+}
+.from_text input , textarea {
+    min-height: 50px;
+    /* text-transform: uppercase; */
+    color: #313030;
+    letter-spacing: 1px;
+    background-color: #fff;
+    font-weight: 500;
+    font-family: sans-serif;
+    /* border: 1px solid #f0ece8; */
+    /* border-radius: 10px; */
+    /* margin-bottom: 0; */
+    /* padding: 16px 24px; */
+    /* font-size: 18px; */
+    /* line-height: 20px; */
+    transition: box-shadow .3s, color .3s, border-color .3s;
+    box-shadow: 0 2px 12px rgba(43, 43, 43, .06);
+}
+
+.message_btn{
+    margin: 30px 0px;
+    width: 92%;   
+    background-color: #D21616A8 !important;
+    
+}
+.message_btn span{
+    color: #ffffff !important;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase; 
+}

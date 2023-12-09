@@ -1,0 +1,32 @@
+.post{
+    background-color: #FEF9F2;
+    padding: 70px 0px 90px 0px;
+    text-align: center;
+}
+
+.post_image{
+    max-width: 70%;
+    height: auto;
+}
+.postSummary{
+    max-width: 650px;
+    margin: 0 auto;
+    font-size: 24px;
+    line-height: 50px;
+    font-weight: 700;
+    margin-top: 30px;    
+    padding: 0px 15px;
+}
+.post_topic{
+    text-align: left;
+    font-weight: 900;
+    font-size: 24px;
+    margin-top: 15px;
+}
+@media only screen and (min-width: 992px) {
+
+    .postTitle{
+        padding: 40px 130px;
+    
+    }
+}

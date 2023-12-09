@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Emily Longeretta",
+            "title": "‘Dancing With the Stars’ Crowns Season 32 Winner - Variety",
+            "description": "The Len Goodman mirrorball trophy was given out on Tuesday night's Season 32 finale of 'Dancing With the Stars.'",
+            "url": "https://variety.com/2023/tv/news/dancing-with-the-stars-winner-season-32-xochitl-gomez-1235820876/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2023/12/170404_EM100801-1.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2023-12-06T04:04:00Z",
+            "content": "SPOILER ALERT: This story contains spoilers from the Season 32 finale of “Dancing With the Stars.”\r\n“Dancing With the Stars” has officially crowned the winner of Season 32! The season came to an end … [+1583 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Katie Kilkenny",
+            "title": "SAG-AFTRA Contract Ending Strike Ratified - Hollywood Reporter",
+            "description": "The union has valued the new three-year contract at over $1 billion, more than three times the value of the union's 2020 deal.",
+            "url": "https://www.hollywoodreporter.com/business/business-news/sag-aftra-contract-ending-strike-ratified-1235712566/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/07/2023_07-SAG_strike-01.jpg?w=1024",
+            "publishedAt": "2023-12-06T03:31:12Z",
+            "content": "SAG-AFTRA members havevoted to ratify the tentative deal that brought an end to the 118-day actors’ strike.\r\nIn a contest that ended on Tuesday evening, 78.33 percent voted “yes” on the contract and … [+3590 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jackie Wattles",
+            "title": "Module that powered historic moon mission has returned to Earth’s orbit - CNN",
+            "description": "The module that propelled India’s moon lander toward the lunar surface is now close to home, according to the Indian Space Research Organization.",
+            "url": "https://www.cnn.com/2023/12/05/world/chandrayaan-3-lunar-lander-propulsion-module-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230904144924-cafe-mision-chandrayaan.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-12-06T03:31:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nThe propulsion module that powered Indias spacecraft t… [+4024 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "The Hill",
+            "title": "Trump tells Hannity he doesn’t think Biden makes it through 2024: Recap - The Hill",
+            "description": "Fox News’s Sean Hannity hosted a town hall with former President Trump on Tuesday in Davenport, Iowa where the former president answered a range of questions from the primetime network host. Trump took swipes at President Biden, some of his GOP rivals and ans…",
+            "url": "https://thehill.com/homenews/campaign/4343945-hannity-town-hall-trump-iowa-live-updates/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/12/MixCollage-05-Dec-2023-07-38-PM-6622.jpg?w=1280",
+            "publishedAt": "2023-12-06T03:30:00Z",
+            "content": "Fox News’s Sean Hannity hosted a town hall with former President Trump on Tuesday in Davenport, Iowa where the former president answered a range of questions from the primetime network host. \r\nTrump … [+640 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": null,
+            "title": "Denny Laine, co-founder of the Moody Blues and Paul McCartney's Wings, dies at 79 - NPR",
+            "description": "Laine joined Ray Thomas and Mike Pinder to form the Moody Blues and sang lead on the group's first hit, \"Go Now.\" His death comes 50 years after the release of McCartney's \"Band on the Run\" album.",
+            "url": "https://www.npr.org/2023/12/05/1217488160/denny-laine-co-founder-of-the-moody-blues-and-paul-mccartneys-wings-dies-at-79",
+            "urlToImage": "https://media.npr.org/assets/img/2023/12/05/laine.ap_wide-37984ee9f92e03b4808261c714af31a312350ebb-s1400-c100.jpg",
+            "publishedAt": "2023-12-06T03:00:02Z",
+            "content": "Denny Laine performs in January 2019 at the Arcada Theatre in St. Charles, Ill. Laine, a British singer, songwriter and guitarist who performed in an early, pop-oriented version of the Moody Blues an… [+2589 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Axios",
+            "title": "U.S. labor market rebalances from pandemic-era extremes - Axios",
+            "description": null,
+            "url": "https://www.axios.com/2023/12/05/us-job-market-openings-labor-pandemic-covid",
+            "urlToImage": null,
+            "publishedAt": "2023-12-06T02:36:38Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Humeyra Pamuk, Jonathan Saul, Maggie Fick",
+            "title": "Despite Gaza death toll soaring, U.S. unlikely to rethink weapons supplies to Israel - Reuters",
+            "description": "Facing a soaring death toll from Israel's renewed offensive in southern Gaza, the Biden administration is trying to pressure its ally to minimize civilian deaths while stopping well short of the kind of measures that might force it to listen, such as threaten…",
+            "url": "https://www.reuters.com/world/middle-east/despite-gaza-death-toll-soaring-us-unlikely-rethink-weapons-supplies-israel-2023-12-05/",
+            "urlToImage": "https://www.reuters.com/resizer/bZWsPcscSRJM1EEerDIjuremPlk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ANZ7IHVDLFIQFCMDPJRW26JYY4.jpg",
+            "publishedAt": "2023-12-06T02:08:00Z",
+            "content": "WASHINGTON/LONDON/BEIRUT, Dec 5 (Reuters) - Facing a soaring death toll from Israel's renewed offensive in southern Gaza, the Biden administration is trying to pressure its ally to minimize civilian … [+7166 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Lauren Fox, Ted  Barrett, Manu Raju",
+            "title": "Classified briefing devolves into shouting as senators fight over border provisions in Ukraine-Israel aid package - CNN",
+            "description": "A classified briefing on Ukraine devolved into a shouting match about border security as senators described a tense meeting that did little to break the Senate’s stalemate over whether to include tighter immigration policies in the must-pass aid package.",
+            "url": "https://www.cnn.com/2023/12/05/politics/senate-classified-briefing-devolves/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231024210106-capitol-building-102423.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-12-06T01:58:00Z",
+            "content": "A classified briefing Tuesday on Ukraine devolved into a shouting match about border security as senators described a tense meeting that did little to break the Senates stalemate over whether to incl… [+5475 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "GTA: VI inspired by real-life Florida news stories - KTLA 5",
+            "description": "24 Hours after the teaser trailer for Grand Theft Auto: VI dropped fans are still picking it apart for clues, easter eggs and more. Like the games that came ...",
+            "url": "https://www.youtube.com/watch?v=7XLJ8HKiJ3Q",
+            "urlToImage": "https://i.ytimg.com/vi/7XLJ8HKiJ3Q/hqdefault.jpg",
+            "publishedAt": "2023-12-06T01:52:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Peruvian constitutional court orders release of former president - POLITICO",
+            "description": "Alberto Fujimori was sentenced in 2009 to 25 years in prison on charges of human rights abuses.",
+            "url": "https://www.politico.com/news/2023/12/05/peru-court-former-president-release-00130261",
+            "urlToImage": "https://static.politico.com/55/c9/dba8eb714ef7a4b12b45973b9f77/peru-fujimori-30668.jpg",
+            "publishedAt": "2023-12-06T01:45:17Z",
+            "content": "Jailed former Peruvian President Alberto Fujimori, photographed through a glass window, attends his trial at a police base on April 23, 2014. | Martin Mejia/AP\r\nBy Associated Press\r\n12/05/2023 05:42 … [+569 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MLB.com"
+            },
+            "author": "Anthony Castrovince",
+            "title": "Dave Roberts says Dodgers met with Shohei Ohtani - MLB.com",
+            "description": "NASHVILLE, Tenn. -- Sometimes the truth hurts. The question on Tuesday at the Winter Meetings was whether the truth bomb Dave Roberts dropped on the media will hurt the Dodgers’ chances of signing superstar two-way talent Shohei Ohtani.\nIn confirming that the…",
+            "url": "https://www.mlb.com/news/dave-roberts-says-dodgers-met-with-shohei-ohtani",
+            "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/kdipzs6inljddfjlhm86.jpg",
+            "publishedAt": "2023-12-06T01:18:45Z",
+            "content": "NASHVILLE, Tenn. -- Sometimes the truth hurts. The question on Tuesday at the Winter Meetings was whether the truth bomb Dave Roberts dropped on the media will hurt the Dodgers chances of signing sup… [+5577 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Seattle Times"
+            },
+            "author": "Seattle Times staff",
+            "title": "Live: Western WA weather updates: Atmospheric river soaks Seattle area - The Seattle Times",
+            "description": "We’re updating this page with the latest news about the weather and its effects on Western Washington.",
+            "url": "https://www.seattletimes.com/seattle-news/weather/western-wa-weather-updates-atmospheric-river-soaks-seattle-area/",
+            "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2023/12/12052023_tzr_tzr_124837.jpg?d=1200x630",
+            "publishedAt": "2023-12-06T00:45:54Z",
+            "content": "Continuous rainfall in Western Washington has caused landslides, train and traffic delays, and flood warnings and emergencies throughout the region Tuesday.\r\nRainfall at the National Weather Service’… [+597 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "Joe Biden 'not sure' he would seek re-election if Trump were not running - Financial Times",
+            "description": "Comments at fundraising event show US president wrestled with decision to seek second term",
+            "url": "https://www.ft.com/content/a0514ea5-46b7-437f-870f-f8601c7d7a43",
+            "urlToImage": null,
+            "publishedAt": "2023-12-06T00:07:56Z",
+            "content": "Keep abreast of significant corporate, financial and political developments around the world. Stay informed and spot emerging risks and opportunities with independent global reporting, expert comment… [+30 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Alaric Nightingale, Julian Lee, Alex Longley",
+            "title": "How Russia Punched an $11 Billion Hole in the West's Oil Sanctions - Bloomberg",
+            "description": "Moscow’s monthly income from oil exports is greater now than before the invasion of Ukraine, highlighting the failure of measures to curb its war chest.",
+            "url": "https://www.bloomberg.com/news/features/2023-12-06/oil-prices-how-russia-punched-an-11-billion-hole-in-west-s-sanctions-regime",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihVAEy4aSyBE/v1/1200x800.jpg",
+            "publishedAt": "2023-12-06T00:01:15Z",
+            "content": "The failure of Western sanctions on Russian oil exports can be seen a short boat ride from the Greek coastal town of Gytheio, where two oil tankers with rusty hulls and a combined age of 57 years sit… [+687 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "SAM MEDNICK",
+            "title": "'Widespread' sexual and gender-based crimes committed during Hamas attack, Israeli officials say - The Associated Press",
+            "description": "Israeli officials say victim testimony and evidence gathered by rights groups indicate that Hamas militants carried out widespread sexual and gender-based crimes during their Oct. 7 attack in southern Israel. A new report by the Israeli organization Physician…",
+            "url": "https://apnews.com/article/sexual-assault-hamas-oct-7-attack-rape-bb06b950bb6794affb8d468cd283bc51",
+            "urlToImage": "https://dims.apnews.com/dims4/default/d11648a/2147483647/strip/true/crop/5616x3159+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F03%2F5f%2F398d6e0cffac2ad44c2ba5cdc05a%2F0dc7f5577c8d422399a279f417200772",
+            "publishedAt": "2023-12-05T23:58:00Z",
+            "content": "JERUSALEM (AP) A man hiding in a pit during the Oct. 7 Hamas assault on an outdoor music festival in Israel said he heard someone nearby screaming she was being raped. Elsewhere in the area, a combat… [+7884 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Lily Hay Newman",
+            "title": "The 23andMe Data Breach Keeps Spiraling - WIRED",
+            "description": "23andMe has provided more information about the scope and scale of its recent breach, but with these details come more unanswered questions.",
+            "url": "https://www.wired.com/story/23andme-breach-sec-update/",
+            "urlToImage": "https://media.wired.com/photos/656f9e7adaaad622dc840b1a/191:100/w_1280,c_limit/breach-23andme-sec-GettyImages-1419172954.jpg",
+            "publishedAt": "2023-12-05T23:54:14Z",
+            "content": "More details are emerging about a data breach the genetic testing company 23andMe first reported in October. But as the company shares more information, the situation is becoming even murkier and cre… [+2456 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Tom Costello, David K. Li, Polly DeFrank, Grace Jaworski, Caroline Radnofsky, Tavleen Tarrant",
+            "title": "Police say James Yoo, man whose Virginia home exploded, is presumed dead - NBC News",
+            "description": "A man is \"presumed, at this point, to be deceased\" after his house near Washington, D.C., blew up as police officers tried to serve a search warrant, authorities said Tuesday.",
+            "url": "https://www.nbcnews.com/news/us-news/home-explodes-washington-dc-arlington-virginia-man-rcna128159",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-12/231204-virginia-arlington-house-explosion-wm-652p-31e91d.jpg",
+            "publishedAt": "2023-12-05T23:45:17Z",
+            "content": "ARLINGTON, Va. The Virginia man whose house in suburban Washington, D.C., blew up had a history of making unsubstantiated complaints that he had been defrauded, and just days before the explosion he … [+5420 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Reddit says a bug is letting slurs get added to its links - The Verge",
+            "description": "A strange Reddit bug is allowing slurs to get added to Reddit URLs, and those URLs are appearing prominently on Google. Reddit says it is working with the “appropriate partners” to fix it.",
+            "url": "https://www.theverge.com/2023/12/5/23989822/reddit-bug-slurs-added-links-google",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/NzsCNsYFJrGVpXs_ewhc-C5fY7s=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25135707/STK115_Reddit.jpg",
+            "publishedAt": "2023-12-05T23:35:26Z",
+            "content": "Reddit says a bug is letting slurs get added to its links\r\nReddit says a bug is letting slurs get added to its links\r\n / Over the past day, Google results with a slur in the subdomain started popping… [+2660 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Natalie Musumeci, Janon Fisher",
+            "title": "Jonathan Majors' domestic-assault accuser broke down during testimony - Business Insider",
+            "description": "Grace Jabbari took the witness stand in a Manhattan courtroom to face Jonathan Majors on Tuesday.",
+            "url": "https://www.businessinsider.com/jonathan-majors-ex-girlfriend-domestic-assault-accuser-broke-down-testimony-2023-12",
+            "urlToImage": "https://i.insider.com/656f8a507a3c8094d5d9df75?width=1200&format=jpeg",
+            "publishedAt": "2023-12-05T23:31:00Z",
+            "content": "Jonathan Majors' ex-girlfriend and domestic assault accuser broke down in tears multiple times as she testified at the Marvel actor's high-profile criminal trial on Tuesday, accusing him of exploding… [+2985 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Louise Radnofsky, William Mauldin",
+            "title": "Russia Rejects 'Significant Proposal' to Trade for WSJ's Gershkovich, Whelan, U.S. Says - The Wall Street Journal",
+            "description": "U.S. seeking to win freedom for Evan Gershkovich and Paul Whelan, State Department spokesman says",
+            "url": "https://www.wsj.com/world/russia/russia-rejects-significant-proposal-for-trade-for-wsjs-gershkovich-whelan-u-s-says-e6522179",
+            "urlToImage": "https://images.wsj.net/im-896058/social",
+            "publishedAt": "2023-12-05T23:03:00Z",
+            "content": null
+        }
+    ]
+}

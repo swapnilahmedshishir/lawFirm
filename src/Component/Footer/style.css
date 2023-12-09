@@ -1,0 +1,42 @@
+.footer_div{
+    background-image: url("/src/ALLImage/div.png"); /* The image used */
+    background-color: #4B1515; /* Used if the image is unavailable */
+    /* height: 430px; */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    color: #fff;
+}
+.conatiner_content{
+    padding: 50px 30px;
+}
+.menuHeader{
+    margin-left:27px ;
+    margin-bottom: 35px;
+}
+.footer_menu ul li{
+    font-weight: 500;
+    padding-top: 5px;
+}
+.payment_method{
+    background-image: url(/src/ALLImage/payment.jpg);
+    /* background-position: center;  */
+    /* max-width: 100%; */
+    background-repeat: no-repeat; 
+    background-size:contain;
+}
+.footer_menu p span{
+    color: red;
+    font-weight: 500;
+}
+.payment_conatiner{
+    padding: 25px 30px;
+}
+@media only screen and(max-width:576px) {
+      .payment_method{
+         width: 100%;
+         height: auto;
+        background-repeat: no-repeat; 
+        background-size:contain;
+    } 
+}

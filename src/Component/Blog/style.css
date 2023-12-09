@@ -1,0 +1,79 @@
+/* blog hero part style */
+
+.blog_hero{
+    background-image: url("/src/ALLImage/pen-and-white-printer-paper-on-brown-wooden-table-955389.jpg"); /* The image used */
+    background-color: #4B1515; /* Used if the image is unavailable */
+    height: 250px;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    color: #fff;
+    filter: sepia(10%) hue-rotate(190deg) saturate(50%);;
+
+}
+.blog_hero h1{
+    text-align: center;
+    padding-top: 100px;
+    font-family: 'Lato', sans-serif;
+    color: black;
+    font-weight: 700;
+}
+
+/* blog card artical style  */
+.artical{
+    padding: 100px 0px;
+}
+.artical_card{
+    margin-bottom: 35px;
+}
+.blog_image{
+    width: 100%;
+    height: 200px;
+}
+.artical_btn{
+    width: 100%;
+    border: none;
+    background-color: #000;
+    color: #fff;
+    padding: 6px 0px;
+    font-size: 20px;
+}
+.author{
+    margin: 10px 0px ;
+    color: #4B1515;
+    font-weight: 600;
+}
+
+/* pager */
+.pager{
+    text-align: center;
+}
+.previous {
+    padding-right: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #c36;
+    font-weight: 500;
+    border: none;
+    background-color: #fff;
+}
+.next {
+    color: #c36;
+    padding-left: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 500;
+    border: none;
+    background-color: #fff;
+}
+.previous:hover  , .next:hover {
+    color: #000;
+    transition: 0.9s;
+} 
+.icon{
+    font-size: 10px;
+    margin-top: -2px;
+}
+button[disabled]{
+    color: #000;
+}

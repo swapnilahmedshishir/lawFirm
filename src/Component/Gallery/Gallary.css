@@ -1,0 +1,36 @@
+/* Gallery Hero */
+.Gallery_hero{
+  background-image: url("/src/ALLImage/pexels-pixabay-208603.jpg"); /* The image used */
+  background-color: #4B1515; /* Used if the image is unavailable */
+  height: 250px;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+  color: #fff;
+  /* filter: sepia(10%) hue-rotate(190deg) saturate(50%);; */
+
+}
+.gallary_text{
+   margin: 30px 0px;
+  text-align: center;
+}
+.gallary_text h3{
+  color: #000000;
+  font-family: "Lato", Sans-serif;
+  font-size: 50px;
+  font-weight: 600;
+  /* line-height: 60px; */
+}
+.divider{
+   display: flex;
+ margin: 0 auto;
+    width: 90px;
+    background-color: #E16565;
+    height: 2px;
+}
+/* Gallery image responcsive code  */
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
