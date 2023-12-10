@@ -3,7 +3,7 @@
 3:ABOUT
 4. PARTNER 
 5.PRACTICE 
-6.We Are
+6.WhoWeAre
 5.TEAM
 6.GALLARY
 7.Certificate 
