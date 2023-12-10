@@ -1,14 +1,10 @@
 // import React from 'react'
-
+import Hero from './HomeComponent/Hero'
+import './Style.css'
 function Home() {
   return (
-    <div>
-      <h1>Home page</h1>
-      <h1>Home page</h1>
-      <h1>Home page</h1>
-      <h1>Home page</h1>
-      <h1>Home page</h1>
-      <h1>Home page</h1>
+    <div className='Homepage'>
+      <Hero/>
     </div>
   )
 }

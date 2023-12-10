@@ -7,6 +7,7 @@
     /* z-index: 30; */
 }
 .navbar-nav{
+    margin: 0 auto;
      --bs-nav-link-color:#CF3232 !important;
 }
 .navbar-brand{

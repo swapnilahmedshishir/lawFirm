@@ -1,0 +1,16 @@
+1: hero 
+2:clinet area
+3:ABOUT
+4. PARTNER 
+5.PRACTICE 
+6.We Are
+5.TEAM
+6.GALLARY
+7.Certificate 
+8.MEMBER 
+9.Clients Review
+10.Popular Blog
+11. Expert 
+12: appoinment
+13. choosing me
+14.SOLVE  issuse
