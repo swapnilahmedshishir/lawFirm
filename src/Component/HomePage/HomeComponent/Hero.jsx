@@ -19,7 +19,7 @@ const Hero = () => {
             </div>
          </div>
          <div className="col-lg-6 col-md-12 col-sm-12 hero_video_col" >
-         <iframe className="video"  src="https://www.youtube.com/embed/AQwIXPbD1VA?si=bjRIz0Bp9vmCdFGL&amp;controls=0&amp;start=5" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+         <iframe className="video"  src="https://www.youtube.com/embed/AQwIXPbD1VA?si=bjRIz0Bp9vmCdFGL&amp;controls=0&amp;start=5" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
          </div>
       </div>
         </div>
