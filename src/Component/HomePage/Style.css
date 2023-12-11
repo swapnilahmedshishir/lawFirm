@@ -166,7 +166,7 @@
 }
 .patner_text{
    /* text-align:justify; */
-   margin: 0px 21px;
+   margin:0px 21px;
    padding-bottom: 20px;
 
 }
@@ -189,6 +189,7 @@
     font-weight: 400;
     line-height: 24px;
     margin-right: 25px;
+    margin-top: 25px;
 }
 
 
@@ -295,18 +296,131 @@
     max-width: 550px;
     margin: 0 auto;
 }
+.whoweAre_Card{
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  border-radius: 9px;
+  padding: 27px;
+}
+.whoweAre_card_col .start_btn{
+  border: none;
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+ text-transform: uppercase;
+  color: #E16565;
+  font-family: "Open Sans", Sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    fill: #E16565;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    padding: 10px 20px 10px 20px;
+    margin: 41px 0px;
+}
+.whoWeAre_list{
+  margin-top: 8px !important;
+}
+.whoWeAre_icon{
+  margin-top: -17px;
+}
+.whoWeAre_icon span{
+  color:#E16565;
+  margin-right: 13px;
+  font-size: 40px;
+}
+.whoWeAre_text{
+  text-align: left;
+}
+.whoWeAre_text h6{
+  color: #48484A;
+  font-family: "Open Sans", Sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-right: 25px;
+}
+.whoWeAre_text h6 span{
+  color: #000;
+  font-weight: 700;
+}
 
 
 
+@media (max-width: 991px) {
+  .whoweAre_card_col .start_btn{
+      margin: 141px 0px;
+      
+  }
+}
 
-
-
-
-
-
-
-
+@media (max-width: 767px) {
+  .whoweAre_Card{
+    padding: 10px;
+  }
+  .whoweAre_card_col{
+    margin-bottom: 15px;
+  }
+  .whoweAre_card_col .start_btn{
+    margin: 41px 0px;
+}
+}
 /* whoWeAre Area section start  */
+/* ============================================================*/
+/* HomeTeam section start  */
+
+.HomeTeam{
+  padding: 50px 0px;  
+  background-color: #F7F7F7;
+
+}
+.Team_home_card{
+  margin: 25px 0px;
+}
+.HomeTeam_img{
+  width: 100%;
+  /* height: 150px; */
+  text-align: center;
+}
+.HomeTeam_img h4{
+  margin-top: 20px;
+  color: #1C1C1C;
+  font-family: "Open Sans", Sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.HomeTeam_img p{
+  color: #D93434;
+    font-family: "Open Sans", Sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.teamBtn{
+  border: none;
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+ text-transform: uppercase;
+  color: #E16565;
+  font-family: "Open Sans", Sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    fill: #E16565;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    padding: 10px 20px ;
+    margin: 20px 0px;
+}
+.btn{
+  width: 90%;
+  margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+/* Home Team section end  */
 /* ============================================================*/
 /* Practice Area section start  */
 /* Responsive Design */
