@@ -1,30 +1,34 @@
 import { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import './Atical.css'
+import FakData from "../../../FackData/data.json"
 
 const DaArtical = () => {
   const { title } = useParams();
   const [post, setPost] = useState([]);
-  const [article, setArticals] = useState([]);
 
-  // Fetch data
-  const url = 'https://newsapi.org/v2/top-headlines?' +
-    'country=us&' +
-    'apiKey=aef775d85f034dea9890d78614bf3091';
+  // FackData
+  const fackData = FakData 
+  const [article] = useState(fackData.articles);
 
-  useEffect(() => {
-    const fetchData = async () => {
-      try {
-        const response = await fetch(url);
-        const data = await response.json();
-        setArticals(data.articles);
-      } catch (error) {
-        console.error('Error fetching data:', error);
-      }
-    };
+  // // Fetch data
+  // const url = 'https://newsapi.org/v2/top-headlines?' +
+  //   'country=us&' +
+  //   'apiKey=aef775d85f034dea9890d78614bf3091';
 
-    fetchData();
-  }, [url]);
+  // useEffect(() => {
+  //   const fetchData = async () => {
+  //     try {
+  //       const response = await fetch(url);
+  //       const data = await response.json();
+  //       setArticals(data.articles);
+  //     } catch (error) {
+  //       console.error('Error fetching data:', error);
+  //     }
+  //   };
+
+  //   fetchData();
+  // }, [url]);
 
   // Data filter
   useEffect(() => {

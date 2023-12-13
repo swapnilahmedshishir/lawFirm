@@ -9,7 +9,6 @@ import { Link } from 'react-router-dom';
 const TeamMeet = () => {
 const fackData = FackData;
 const [data ] = useState(fackData.membar)
-console.log(data[2]);
 
   return (  
     
@@ -19,22 +18,24 @@ console.log(data[2]);
                 return(
                    
              <div className="col-md-3 col-sm-6 team_colum" key={dt.id}>
-             <Link to={`/team/${dt.id}/${dt.title}`} >
+             
                         <div className="our-team">
                 <img src={dt.imgUrl} alt=""/>
                 <div className="team-content">
-                    <h3 className="title">{dt.name}</h3>
-                    <span className="post">{dt.position}</span>
+                <Link className='title_name' to={`/team/${dt.id}/${dt.title}`} >
+                  <h3 className="title">{dt.name}</h3>
+                  </Link>
+                    <span className="team_post">{dt.position}</span>
                     <ul className="social-links">
-                        <li><a href="#"><FaFacebookSquare /></a></li>
-                        <li><a href="#"><FaLinkedin/></a></li>
-                        <li><a href="#"><FaXTwitter/> </a></li>
-                        <li><a href="#"><FaWhatsapp /> </a></li>
-                        <li><a href="#"><FaYoutube /></a></li>
+                        <li><a href="https://www.facebook.com/" target='_blank'><FaFacebookSquare /></a></li>
+                        <li><a href="https://www.linkedin.com/" target='_blank'><FaLinkedin/></a></li>
+                        <li><a href="https://www.twitter.com/" target='_blank'><FaXTwitter/> </a></li>
+                        <li><a href="https://www.whatsapp.com/" target='_blank'><FaWhatsapp /> </a></li>
+                        <li><a href="https://www.youtube.com/" target='_blank'><FaYoutube /></a></li>
                     </ul>
                 </div>
             </div>
-          </Link>
+          
         </div>
                 )
             })

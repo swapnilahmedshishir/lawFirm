@@ -42,12 +42,20 @@
     right: -3%;
     transform: rotate(-15deg);
 }
-.our-team .title{
+.our-team .title {
     font-size: 20px;
+    color: #fff;    
     font-weight: 600;
     text-transform: capitalize;
     margin: 0 0 7px 0;
     position: relative;
+    transition: 0.5s;
+}
+.title:hover{
+    color: #ff5543;
+}
+.title_name{
+text-decoration: none;
 }
 .our-team .title:before,
 .our-team .title:after{
@@ -73,7 +81,7 @@
     text-transform: capitalize;
     margin-bottom: 8px;
 }
-.post {
+.team_post {
     background-color: #3f2b4f !important;
     padding: 9px 0px 13px 0px !important;
     text-align: center;

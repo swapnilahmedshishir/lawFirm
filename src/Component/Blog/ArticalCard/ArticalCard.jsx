@@ -14,7 +14,7 @@ function ArticalCard({ articals }) {
                 <p></p>
                 <h4>{title}</h4>
                 <p className='author'><RxAvatar /> Swapnil Ahmed Shishir</p>
-                <Link to={`/blog/${title}`}><button className='artical_btn'>Learn More</button></Link>
+                <Link to={`/blog/${title}`}><button className='artical_btn'>Read More</button></Link>
             </div>
         </>
     )
