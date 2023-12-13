@@ -2,7 +2,7 @@
 const HomeMemberClient = () => {
 console.log();
   return (
-    <div className="HomeTeam">
+    <div className="member">
     <div className='container'>
     <div className="patner_text">
       <h1>OUR <span>MEMBER FIRM OF</span></h1>

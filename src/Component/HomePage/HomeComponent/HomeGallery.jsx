@@ -4,7 +4,7 @@ import MasonryGallery from "../../Gallery/ImageGellery/ImgGellery";
 const HomeGallery = () => {
 console.log();
   return (
-    <div className="HomeTeam">
+    <div className="Gallery">
     <div className='container'>
     <div className="patner_text">
       <h1>OUR <span>GALLARY</span></h1>

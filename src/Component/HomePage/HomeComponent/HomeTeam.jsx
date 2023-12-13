@@ -45,8 +45,8 @@ console.log();
     </div>
           
     </div>
-    <div className='btn'>
-    <Link to='/our-team'><button type="btn" className="teamBtn">view all <IoArrowForward className="arrowcicon"/></button></Link>
+    <div className='Tam_btn'>
+    <Link to='/our-team'><button type="btn" className="start_btn">view all <IoArrowForward className="arrowcicon"/></button></Link>
 
     </div>
     

@@ -12,6 +12,8 @@ import HomeCertificate from './HomeComponent/HomeCertificate'
 import HomeMemberClient from './HomeComponent/HomeMemberClient'
 import HomePopularBlog from './HomeComponent/HomePopularBlog'
 import Faq from './HomeComponent/Faq'
+import Solution from './HomeComponent/Solution'
+import RequestLawyer from '../RequestLawyer/RequestLawyer'
 function Home() {
   return (
     <div className='Homepage'>
@@ -26,7 +28,9 @@ function Home() {
       <HomeCertificate/>
       <HomeMemberClient/>
       <HomePopularBlog/>
+      <Solution/>
       <Faq/>
+      <RequestLawyer/>
     </div>
   )
 }

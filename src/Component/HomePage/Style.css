@@ -395,30 +395,23 @@
     font-size: 18px;
     font-weight: 400;
 }
-
-.teamBtn{
-  border: none;
-  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
- text-transform: uppercase;
-  color: #E16565;
-  font-family: "Open Sans", Sans-serif;
-    font-size: 16px;
-    font-weight: 700;
-    fill: #E16565;
-    background-color: #FFFFFF;
-    border-radius: 5px;
-    padding: 10px 20px ;
-    margin: 20px 0px;
-}
-.btn{
-  width: 90%;
-  margin: 0 auto;
+.Tam_btn{
+  /* display: block; */
+  text-align: center;
 }
 
 /* Home Team section end  */
 /* ============================================================*/
-/* certificate Area section start  */
+/* Gallery Area section start  */
 
+.Gallery{
+  padding: 50px 0px;  
+}
+
+
+/* Gallery section end  */
+/* ============================================================*/
+/* certificate Area section start  */
 .certificate_img img{
   width: 100%;
   height: 350px;
@@ -427,19 +420,187 @@
 /* certificate section end  */
 /* ============================================================*/
 /* member section start  */
-
-
+.member{
+  padding: 50px 0px;  
+}
 .member_firm_img img{
   width: 100%;
   text-align: center;
   height: 200px;
   padding:20px 35px;
 }
-
-
-
-
 /* certificate section end  */
 /* ============================================================*/
-/* Practice Area section start  */
+/* solution Area section start  */
+.solution{
+  background-color: #fff;
+  padding: 50px 0px;
+}
+.Free_Consultation{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  margin: 35px 50px;
+  padding: 37px;
+}
+
+.solution_call_us{
+  display: flex;
+  padding: 10px 0px;
+}
+.call_icon p{
+  background-color: #E16565;
+  padding: 20px 25px; 
+  margin: 10px 20px 0px 0px; 
+  font-size: 20px;
+  color: #fff;
+}
+.solution_call_us .call_number{
+  margin-top: 5px;
+}
+.solution_call_us .call_number span{
+  color: #1F2732;
+  font-family: "Open Sans", Sans-serif;
+  font-size: 19px;
+  font-weight: 500;
+}
+.solution_call_us .call_number strong{
+  color: #161d27; 
+  font-size: 30px; 
+  font-weight: bold;
+}
+.start_btn{
+  border: none;
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+  text-transform: uppercase;
+  color: #E16565;
+  font-family: "Open Sans", Sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  fill: #E16565;
+  background-color: #FFFFFF;
+  border-radius: 5px;
+  padding: 10px 20px 10px 20px;
+  margin: 41px 0px;
+}
+
+@media (max-width: 991px) {
+  .Free_Consultation{
+    
+    margin: 45px 0px;
+    padding: 20px;
+  }
+  .solution_call_us .call_number strong{
+    font-size: 22px; 
+  }
+}
+
+@media (max-width: 767px) {
+  .Free_Consultation{
+    margin: 32px 0px;
+    padding: 18px;
+  }
+  .solution_call_us .call_number strong{
+    font-size: 20px; 
+  }
+  
+}
+/* solution section end  */
+/* ============================================================*/
+/* Faq  section start  */
+.accordion{
+  margin: 0px 20px;
+  padding-top: 30px;
+}
+ .accordion .accordion-item {
+	 font-family: "Open Sans", Sans-serif;
+   font-size: 18px;
+   font-weight: 600;
+   line-height: 24px;
+   padding: 20px 50px;   
+}
+ .accordion .accordion-item button[aria-expanded='true'] {
+	 border-bottom: 1px solid #E16565;
+}
+ .accordion button {
+	 position: relative;
+	 display: block;
+	 text-align: left;
+	 width: 100%;
+	 padding: 1em 0;
+	 color: #E16565;
+	 font-size: 1.15rem;
+	 font-weight: 400;
+	 border: none;
+	 background: none;
+	 outline: none;
+}
+ .accordion button:hover, .accordion button:focus {
+	 cursor: pointer;
+	 color: #E16565;
+}
+ .accordion button:hover::after, .accordion button:focus::after {
+	 cursor: pointer;
+	 color: #E16565;
+	 border: 1px solid #E16565;
+}
+ .accordion button .accordion-title {
+	 padding: 1em 1.5em 1em 0;
+}
+ .accordion button .icon {
+	 display: inline-block;
+	 position: absolute;
+	 top: 18px;
+	 right: 0;
+	 width: 22px;
+	 height: 22px;
+	 border: 1px solid;
+	 border-radius: 22px;
+}
+ .accordion button .icon::before {
+	 display: block;
+	 position: absolute;
+	 content: '';
+	 top: 9px;
+	 left: 5px;
+	 width: 10px;
+	 height: 2px;
+	 background: currentColor;
+}
+ .accordion button .icon::after {
+	 display: block;
+	 position: absolute;
+	 content: '';
+	 top: 5px;
+	 left: 9px;
+	 width: 2px;
+	 height: 10px;
+	 background: currentColor;
+}
+ .accordion button[aria-expanded='true'] {
+	 color: #E16565;
+}
+ .accordion button[aria-expanded='true'] .icon::after {
+	 width: 0;
+}
+ .accordion button[aria-expanded='true'] + .accordion-content {
+	 opacity: 1;
+	 max-height: 9em;
+	 transition: all 200ms linear;
+	 will-change: opacity, max-height;
+}
+ .accordion .accordion-content {
+	 opacity: 0;
+	 max-height: 0;
+	 overflow: hidden;
+	 transition: opacity 200ms linear, max-height 200ms linear;
+	 will-change: opacity, max-height;
+}
+ .accordion .accordion-content p {
+	 font-size: 1rem;
+	 font-weight: 300;
+	 margin: 2em 0;
+   color: #5c5b5b;
+}
+/* Faq section end  */
+/* ============================================================*/
+/* solution Area section start  */
 /* Responsive Design */
