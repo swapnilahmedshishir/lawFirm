@@ -4,6 +4,7 @@ import From from "./From/From"
 import { IoIosMail } from "react-icons/io";
 import { BsTelephone,BsFacebook,BsInstagram,BsYoutube,BsWhatsapp } from "react-icons/bs";
 import { GiRotaryPhone } from "react-icons/gi";
+import { FaLinkedinIn } from "react-icons/fa";
 import Map from "./GoogleMap/Map";
 
 export const ContactUs = () => {
@@ -43,7 +44,7 @@ export const ContactUs = () => {
               <div className="cnt_info_frist_div"><span className=""><IoIosMail /></span></div>
               <div className="cnt_info_second_div">
                 <h6><a href="mailto:info@gmail.com">Email Address</a></h6>
-                <span>info@gmail.com</span>
+                <span>mizan.dcp@gmail.com</span>
               </div>
              </div>
 
@@ -51,7 +52,7 @@ export const ContactUs = () => {
               <div className="cnt_info_frist_div"><span className=""><BsTelephone /></span></div>
               <div className="cnt_info_second_div">
                 <h6><a href="tel:+8880XYVJHJHU">Call Us</a></h6>
-                <span>+8801236547896</span>
+                <span>+8801986200167</span>
               </div>
              </div>
 
@@ -59,7 +60,7 @@ export const ContactUs = () => {
               <div className="cnt_info_frist_div"><span className=""><GiRotaryPhone /></span></div>
               <div className="cnt_info_second_div">
               <h6><a href="tel:+8880XYVJHJHU">Call Us</a></h6>
-                <span>+8801236547896</span>
+                <span>+8801718501933</span>
               </div>
              </div>
               <div className="social_media">
@@ -69,10 +70,10 @@ export const ContactUs = () => {
               </div>
               <div className="social-container">
                 <ul className="social-icons">
-                    <li><a href="https://www.facebook.com"  rel="noopener" target="_blank"><span><BsFacebook/></span></a></li>
-                    <li><a href="https://www.instagram.con"  rel="noopener" target="_blank"><span><BsInstagram/></span></a></li>
-                    <li><a href="https://www.youtube.com/" rel="noopener" target="_blank"><span><BsYoutube/></span></a></li>
-                    <li><a href="whatsapp.com" target="_blank"><span><BsWhatsapp/></span></a></li>
+                    <li><a href="https://www.facebook.com/adv.mrmizan.dba"  rel="noopener" target="_blank"><span><BsFacebook/></span></a></li>
+                    <li><a href="https://www.linkedin.com/in/adv-mizanur-rahman/"  rel="noopener" target="_blank"><span><FaLinkedinIn/></span></a></li>
+                    <li><a href="https://www.youtube.com/@advmizanurrahman9166" rel="noopener" target="_blank"><span><BsYoutube/></span></a></li>
+                    <li><a href="https://wa.link/8vpzul" target="_blank"><span><BsWhatsapp/></span></a></li>
                 </ul>
             </div>
               </div>

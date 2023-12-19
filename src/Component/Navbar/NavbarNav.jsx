@@ -11,7 +11,7 @@ function NavbarNav() {
   return (
    <Navbar collapseOnSelect expand="lg" className="navbar_style">
     <Container  className='navbar_container'>
-    <Navbar.Brand href="/home">Logo</Navbar.Brand>
+    <Navbar.Brand href="/home"> <span className='Logo_name'>MR </span><br/>Law Point</Navbar.Brand>
     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
     <Navbar.Collapse id="responsive-navbar-nav">
     <Nav className="me-auto" >
@@ -40,8 +40,8 @@ function NavbarNav() {
             <NavLink to="/contact" className='nav_text'>contact</NavLink>
     </Nav>
     <Nav className=''>
-            <h5 className='contact_text'><FaPhone /> 01602555023</h5>
-            <h5 className='contact_text'><FaWhatsapp /> 01602555023  </h5>
+            <h5 className='contact_text'><FaPhone /> 01986200167</h5>
+            <h5 className='contact_text'><FaWhatsapp />01718501933</h5>
           </Nav>
     </Navbar.Collapse>
     </Container>
